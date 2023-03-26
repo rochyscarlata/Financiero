@@ -32,7 +32,7 @@ export const BarCharts = () => {
       datasets: [
         {
           label: "Ganancias $",
-          data: [12003, 22201, 12563, 17938, 13645, 17842, 4444],
+          data: [12003, 22201, 12563, 17938, 13645],
           borderColor: "rgb(53, 162, 235)",
           backgroundColor: "rgb(53, 162, 235, 0.4)",
         },
